@@ -1,0 +1,2 @@
+It shows the current state of your Git working directory and staging area — what files have been modified, which ones are staged for commit, and which aren’t being tracked yet.
+It’s basically Git’s “what’s going on right now?” command.
